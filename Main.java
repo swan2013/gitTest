@@ -6,6 +6,7 @@ public class Main{
 		System.out.println("Second");
 		System.out.println("at home");
 
+		//테스트
 		Scanner s = new Scanner(System.in);
 		System.out.print("문제를 선택하세요 1~3>(종료 : 0)");
 		while(true){
